@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OdinCheckModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AFFAIRE">
+    <Key>
+      <PropertyRef Name="AffaireId" />
+    </Key>
+    <Property Name="AffaireId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AffaireName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="AffaireComments" Type="varchar(max)" />
+    <Property Name="AffaireDateCreation" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PERSONNE">
+    <Key>
+      <PropertyRef Name="PersonneId" />
+    </Key>
+    <Property Name="PersonneId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PersonneName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonneUser" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PersonnePass" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="RoleId" Type="int" Nullable="false" />
+    <Property Name="Actif" Type="bit" />
+  </EntityType>
+  <EntityType Name="RELATION">
+    <Key>
+      <PropertyRef Name="ResumeId" />
+      <PropertyRef Name="VideoId" />
+    </Key>
+    <Property Name="ResumeId" Type="int" Nullable="false" />
+    <Property Name="VideoId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RESUME">
+    <Key>
+      <PropertyRef Name="ResumeId" />
+    </Key>
+    <Property Name="ResumeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AffaireId" Type="int" Nullable="false" />
+    <Property Name="PersonneId" Type="int" Nullable="false" />
+    <Property Name="ResumeName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ResumeComments" Type="varchar(max)" />
+    <Property Name="ResumeDateCreation" Type="datetime" Nullable="false" />
+    <Property Name="ResumeParameters" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ROLES">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" Nullable="false" />
+    <Property Name="RoleName" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VIDEO">
+    <Key>
+      <PropertyRef Name="VideoId" />
+    </Key>
+    <Property Name="VideoId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="VideoName" Type="varchar" MaxLength="50" />
+    <Property Name="VideoPath" Type="varchar(max)" />
+    <Property Name="VideoDateCreation" Type="datetime" Nullable="false" />
+    <Property Name="VideoDescription" Type="varchar(max)" />
+    <Property Name="VideoDateDebut" Type="datetime" />
+    <Property Name="VideoDuration" Type="bigint" />
+  </EntityType>
+  <Association Name="FK_PERSONNE_ROLES">
+    <End Role="ROLES" Type="Self.ROLES" Multiplicity="1" />
+    <End Role="PERSONNE" Type="Self.PERSONNE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROLES">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="PERSONNE">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RELATION_RESUME">
+    <End Role="RESUME" Type="Self.RESUME" Multiplicity="1" />
+    <End Role="RELATION" Type="Self.RELATION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RESUME">
+        <PropertyRef Name="ResumeId" />
+      </Principal>
+      <Dependent Role="RELATION">
+        <PropertyRef Name="ResumeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RELATION_VIDEO">
+    <End Role="VIDEO" Type="Self.VIDEO" Multiplicity="1" />
+    <End Role="RELATION" Type="Self.RELATION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VIDEO">
+        <PropertyRef Name="VideoId" />
+      </Principal>
+      <Dependent Role="RELATION">
+        <PropertyRef Name="VideoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESUME_AFFAIRE">
+    <End Role="AFFAIRE" Type="Self.AFFAIRE" Multiplicity="1" />
+    <End Role="RESUME" Type="Self.RESUME" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AFFAIRE">
+        <PropertyRef Name="AffaireId" />
+      </Principal>
+      <Dependent Role="RESUME">
+        <PropertyRef Name="AffaireId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESUME_PERSONNE">
+    <End Role="PERSONNE" Type="Self.PERSONNE" Multiplicity="1" />
+    <End Role="RESUME" Type="Self.RESUME" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONNE">
+        <PropertyRef Name="PersonneId" />
+      </Principal>
+      <Dependent Role="RESUME">
+        <PropertyRef Name="PersonneId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="spAddAffaire" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="comments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateCreation" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="spAddPersonne" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="username" Type="varchar" Mode="In" />
+    <Parameter Name="password" Type="varchar" Mode="In" />
+    <Parameter Name="roleid" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spAddRelation" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ResumeId" Type="int" Mode="In" />
+    <Parameter Name="VideoId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spAddResume" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AffaireId" Type="int" Mode="In" />
+    <Parameter Name="PersonneId" Type="int" Mode="In" />
+    <Parameter Name="ResumeName" Type="varchar" Mode="In" />
+    <Parameter Name="ResumeComments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="ResumeDateCreation" Type="datetime" Mode="In" />
+    <Parameter Name="ResumeParameters" Type="varchar(max)" Mode="In" />
+  </Function>
+  <Function Name="spAddRole" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="RolesId" Type="int" Mode="In" />
+    <Parameter Name="RoleName" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="spAddVideo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="path" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateCreation" Type="datetime" Mode="In" />
+    <Parameter Name="comments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateDebut" Type="datetime" Mode="In" />
+    <Parameter Name="VideoDuration" Type="bigint" Mode="In" />
+  </Function>
+  <Function Name="spDeleteAffaire" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="AffaireId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spDeletePersonne" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PersonneId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spDeleteRelation" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="VideoId" Type="int" Mode="In" />
+    <Parameter Name="ResumeId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spDeleteResume" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ResumeId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spDeleteRole" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="RoleId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spDeleteVideo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="VideoId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spGet" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NomTable" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="spGetAffaire" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spGetPersonne" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spGetRelation" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spGetResume" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spGetRole" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spGetVideo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="spUpdateAffaire" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="comments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateCreation" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="spUpdatePersonne" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="user" Type="varchar" Mode="In" />
+    <Parameter Name="pass" Type="varchar" Mode="In" />
+    <Parameter Name="roleid" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spUpdateRelation" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ResumeId" Type="int" Mode="In" />
+    <Parameter Name="OldVideoId" Type="int" Mode="In" />
+    <Parameter Name="NewVideoId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="spUpdateResume" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="ResumeId" Type="int" Mode="In" />
+    <Parameter Name="AffaireId" Type="int" Mode="In" />
+    <Parameter Name="PersonneId" Type="int" Mode="In" />
+    <Parameter Name="ResumeName" Type="varchar" Mode="In" />
+    <Parameter Name="ResumeComments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="ResumeDateCreation" Type="datetime" Mode="In" />
+    <Parameter Name="ResumeParameters" Type="varchar(max)" Mode="In" />
+  </Function>
+  <Function Name="spUpdateRoles" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="RoleId" Type="int" Mode="In" />
+    <Parameter Name="RoleName" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="spUpdateVideo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="path" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateCreation" Type="datetime" Mode="In" />
+    <Parameter Name="comments" Type="varchar(max)" Mode="In" />
+    <Parameter Name="dateDebut" Type="datetime" Mode="In" />
+    <Parameter Name="VideoDuration" Type="bigint" Mode="In" />
+  </Function>
+  <EntityContainer Name="OdinCheckModelStoreContainer">
+    <EntitySet Name="AFFAIRE" EntityType="Self.AFFAIRE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PERSONNE" EntityType="Self.PERSONNE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RELATION" EntityType="Self.RELATION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RESUME" EntityType="Self.RESUME" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ROLES" EntityType="Self.ROLES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VIDEO" EntityType="Self.VIDEO" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_PERSONNE_ROLES" Association="Self.FK_PERSONNE_ROLES">
+      <End Role="ROLES" EntitySet="ROLES" />
+      <End Role="PERSONNE" EntitySet="PERSONNE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RELATION_RESUME" Association="Self.FK_RELATION_RESUME">
+      <End Role="RESUME" EntitySet="RESUME" />
+      <End Role="RELATION" EntitySet="RELATION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RELATION_VIDEO" Association="Self.FK_RELATION_VIDEO">
+      <End Role="VIDEO" EntitySet="VIDEO" />
+      <End Role="RELATION" EntitySet="RELATION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESUME_AFFAIRE" Association="Self.FK_RESUME_AFFAIRE">
+      <End Role="AFFAIRE" EntitySet="AFFAIRE" />
+      <End Role="RESUME" EntitySet="RESUME" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESUME_PERSONNE" Association="Self.FK_RESUME_PERSONNE">
+      <End Role="PERSONNE" EntitySet="PERSONNE" />
+      <End Role="RESUME" EntitySet="RESUME" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.exe
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.deps.json
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.runtimeconfig.json
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.runtimeconfig.dev.json
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.dll
+C:\Users\mai\source\TP\class_objet_transtypage\bin\Debug\netcoreapp3.1\class_objet_transtypage.pdb
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.AssemblyInfo.cs
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.dll
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.pdb
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.genruntimeconfig.cache
+C:\Users\mai\source\TP\class_objet_transtypage\obj\Debug\netcoreapp3.1\class_objet_transtypage.csprojAssemblyReference.cache

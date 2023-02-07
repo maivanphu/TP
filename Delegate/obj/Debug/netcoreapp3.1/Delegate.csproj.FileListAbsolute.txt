@@ -1,0 +1,12 @@
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\mai\source\TP\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\mai\source\TP\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

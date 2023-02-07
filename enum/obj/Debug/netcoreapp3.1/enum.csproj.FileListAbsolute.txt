@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.exe
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.deps.json
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.runtimeconfig.json
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.runtimeconfig.dev.json
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.dll
+C:\Users\mai\source\TP\enum\bin\Debug\netcoreapp3.1\enum.pdb
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.dll
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.pdb
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.genruntimeconfig.cache
+C:\Users\mai\source\TP\enum\obj\Debug\netcoreapp3.1\enum.csprojAssemblyReference.cache

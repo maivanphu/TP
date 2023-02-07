@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.exe
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.deps.json
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.dll
+C:\Users\mai\source\TP\CollectionTableau\bin\Debug\netcoreapp3.1\CollectionTableau.pdb
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.dll
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.pdb
+C:\Users\mai\source\TP\CollectionTableau\obj\Debug\netcoreapp3.1\CollectionTableau.genruntimeconfig.cache

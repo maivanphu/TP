@@ -1,0 +1,7 @@
+C:\Users\mai\source\TP\Indexeur2Param\bin\Debug\Indexeur2Param.exe.config
+C:\Users\mai\source\TP\Indexeur2Param\bin\Debug\Indexeur2Param.exe
+C:\Users\mai\source\TP\Indexeur2Param\bin\Debug\Indexeur2Param.pdb
+C:\Users\mai\source\TP\Indexeur2Param\obj\Debug\Indexeur2Param.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\Indexeur2Param\obj\Debug\Indexeur2Param.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Indexeur2Param\obj\Debug\Indexeur2Param.exe
+C:\Users\mai\source\TP\Indexeur2Param\obj\Debug\Indexeur2Param.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MethodeClass_Instance_Abstraite/1.0.0": {
+        "runtime": {
+          "MethodeClass_Instance_Abstraite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodeClass_Instance_Abstraite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

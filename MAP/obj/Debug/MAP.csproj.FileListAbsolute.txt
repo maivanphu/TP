@@ -1,0 +1,7 @@
+C:\Users\mai\source\TP\MAP\bin\Debug\MAP.exe.config
+C:\Users\mai\source\TP\MAP\bin\Debug\MAP.exe
+C:\Users\mai\source\TP\MAP\bin\Debug\MAP.pdb
+C:\Users\mai\source\TP\MAP\obj\Debug\MAP.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\MAP\obj\Debug\MAP.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\MAP\obj\Debug\MAP.exe
+C:\Users\mai\source\TP\MAP\obj\Debug\MAP.pdb

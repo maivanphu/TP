@@ -1,0 +1,7 @@
+C:\Users\mai\source\TP\Proprietes\bin\Debug\netcoreapp3.1\Proprietes.exe
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.AssemblyInfo.cs
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.dll
+C:\Users\mai\source\TP\Proprietes\obj\Debug\netcoreapp3.1\Proprietes.pdb

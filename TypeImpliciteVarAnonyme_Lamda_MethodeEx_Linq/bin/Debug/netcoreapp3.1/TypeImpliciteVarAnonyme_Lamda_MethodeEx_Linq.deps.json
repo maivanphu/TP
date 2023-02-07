@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq/1.0.0": {
+        "runtime": {
+          "TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

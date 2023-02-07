@@ -1,0 +1,7 @@
+C:\Users\mai\source\TP\ClientsSortedList\bin\Debug\ClientsSortedList.exe.config
+C:\Users\mai\source\TP\ClientsSortedList\bin\Debug\ClientsSortedList.exe
+C:\Users\mai\source\TP\ClientsSortedList\bin\Debug\ClientsSortedList.pdb
+C:\Users\mai\source\TP\ClientsSortedList\obj\Debug\ClientsSortedList.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\ClientsSortedList\obj\Debug\ClientsSortedList.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\ClientsSortedList\obj\Debug\ClientsSortedList.exe
+C:\Users\mai\source\TP\ClientsSortedList\obj\Debug\ClientsSortedList.pdb

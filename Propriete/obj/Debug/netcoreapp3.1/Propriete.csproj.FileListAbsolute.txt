@@ -1,0 +1,12 @@
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.exe
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.deps.json
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.runtimeconfig.json
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.runtimeconfig.dev.json
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.dll
+C:\Users\mai\source\TP\Propriete\bin\Debug\netcoreapp3.1\Propriete.pdb
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.AssemblyInfo.cs
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.dll
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.pdb
+C:\Users\mai\source\TP\Propriete\obj\Debug\netcoreapp3.1\Propriete.genruntimeconfig.cache

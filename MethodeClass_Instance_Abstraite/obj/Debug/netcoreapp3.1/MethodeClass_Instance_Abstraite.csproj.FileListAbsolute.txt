@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.exe
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.deps.json
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.runtimeconfig.json
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.runtimeconfig.dev.json
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.dll
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\bin\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.pdb
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.AssemblyInfo.cs
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.dll
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.pdb
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.genruntimeconfig.cache
+C:\Users\mai\source\TP\MethodeClass_Instance_Abstraite\obj\Debug\netcoreapp3.1\MethodeClass_Instance_Abstraite.csprojAssemblyReference.cache

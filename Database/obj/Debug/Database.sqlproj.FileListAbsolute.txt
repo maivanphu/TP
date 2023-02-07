@@ -1,0 +1,6 @@
+C:\Users\mai\source\TP\Database\bin\Debug\Database.dacpac
+C:\Users\mai\source\TP\Database\bin\Debug\Database.dll
+C:\Users\mai\source\TP\Database\bin\Debug\Database.pdb
+C:\Users\mai\source\TP\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\mai\source\TP\Database\obj\Debug\Database.dll
+C:\Users\mai\source\TP\Database\obj\Debug\Database.pdb

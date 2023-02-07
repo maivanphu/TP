@@ -1,0 +1,7 @@
+PUSH a
+PUSH b
+PUSH c
+PUSH # 5
+SBC
+MUL
+ADC

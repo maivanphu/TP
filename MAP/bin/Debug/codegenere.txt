@@ -1,0 +1,20 @@
+======== ligne source ========
+
+abc5-*+
+
+======== Machine MAP ========
+
+0   : PUSH a [$1000]
+1   : PUSH b [$1001]
+2   : PUSH c [$1002]
+3   : PUSH # 5
+4   : SBC 
+5   : MUL 
+6   : ADC 
+
+===== Table des symboles =====
+
+var   adresse
+ a  |  1000
+ b  |  1001
+ c  |  1002

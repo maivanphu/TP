@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.exe
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.deps.json
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.dll
+C:\Users\mai\source\TP\CollectionArrayListe\bin\Debug\netcoreapp3.1\CollectionArrayListe.pdb
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.dll
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.pdb
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.genruntimeconfig.cache
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\CollectionArrayListe\obj\Debug\netcoreapp3.1\CollectionArrayListe.GeneratedMSBuildEditorConfig.editorconfig

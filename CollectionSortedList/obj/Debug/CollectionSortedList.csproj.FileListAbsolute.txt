@@ -1,0 +1,7 @@
+C:\Users\mai\source\TP\CollectionSortedList\bin\Debug\CollectionSortedList.exe.config
+C:\Users\mai\source\TP\CollectionSortedList\bin\Debug\CollectionSortedList.exe
+C:\Users\mai\source\TP\CollectionSortedList\bin\Debug\CollectionSortedList.pdb
+C:\Users\mai\source\TP\CollectionSortedList\obj\Debug\CollectionSortedList.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\CollectionSortedList\obj\Debug\CollectionSortedList.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionSortedList\obj\Debug\CollectionSortedList.exe
+C:\Users\mai\source\TP\CollectionSortedList\obj\Debug\CollectionSortedList.pdb

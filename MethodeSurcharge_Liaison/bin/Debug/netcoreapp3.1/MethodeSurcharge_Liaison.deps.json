@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MethodeSurcharge_Liaison/1.0.0": {
+        "runtime": {
+          "MethodeSurcharge_Liaison.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodeSurcharge_Liaison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

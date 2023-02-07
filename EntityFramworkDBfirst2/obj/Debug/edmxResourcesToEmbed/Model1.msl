@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OdinCheckModelStoreContainer" CdmEntityContainer="OdinCheckEntities">
+    <EntitySetMapping Name="AFFAIRE">
+      <EntityTypeMapping TypeName="OdinCheckModel.AFFAIRE">
+        <MappingFragment StoreEntitySet="AFFAIRE">
+          <ScalarProperty Name="AffaireId" ColumnName="AffaireId" />
+          <ScalarProperty Name="AffaireName" ColumnName="AffaireName" />
+          <ScalarProperty Name="AffaireComments" ColumnName="AffaireComments" />
+          <ScalarProperty Name="AffaireDateCreation" ColumnName="AffaireDateCreation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PERSONNE">
+      <EntityTypeMapping TypeName="OdinCheckModel.PERSONNE">
+        <MappingFragment StoreEntitySet="PERSONNE">
+          <ScalarProperty Name="PersonneId" ColumnName="PersonneId" />
+          <ScalarProperty Name="PersonneName" ColumnName="PersonneName" />
+          <ScalarProperty Name="PersonneUser" ColumnName="PersonneUser" />
+          <ScalarProperty Name="PersonnePass" ColumnName="PersonnePass" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="Actif" ColumnName="Actif" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESUME">
+      <EntityTypeMapping TypeName="OdinCheckModel.RESUME">
+        <MappingFragment StoreEntitySet="RESUME">
+          <ScalarProperty Name="ResumeId" ColumnName="ResumeId" />
+          <ScalarProperty Name="AffaireId" ColumnName="AffaireId" />
+          <ScalarProperty Name="PersonneId" ColumnName="PersonneId" />
+          <ScalarProperty Name="ResumeName" ColumnName="ResumeName" />
+          <ScalarProperty Name="ResumeComments" ColumnName="ResumeComments" />
+          <ScalarProperty Name="ResumeDateCreation" ColumnName="ResumeDateCreation" />
+          <ScalarProperty Name="ResumeParameters" ColumnName="ResumeParameters" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ROLES">
+      <EntityTypeMapping TypeName="OdinCheckModel.ROLES">
+        <MappingFragment StoreEntitySet="ROLES">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VIDEO">
+      <EntityTypeMapping TypeName="OdinCheckModel.VIDEO">
+        <MappingFragment StoreEntitySet="VIDEO">
+          <ScalarProperty Name="VideoId" ColumnName="VideoId" />
+          <ScalarProperty Name="VideoName" ColumnName="VideoName" />
+          <ScalarProperty Name="VideoPath" ColumnName="VideoPath" />
+          <ScalarProperty Name="VideoDateCreation" ColumnName="VideoDateCreation" />
+          <ScalarProperty Name="VideoDescription" ColumnName="VideoDescription" />
+          <ScalarProperty Name="VideoDateDebut" ColumnName="VideoDateDebut" />
+          <ScalarProperty Name="VideoDuration" ColumnName="VideoDuration" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="RELATION" TypeName="OdinCheckModel.RELATION" StoreEntitySet="RELATION">
+      <EndProperty Name="RESUME">
+        <ScalarProperty Name="ResumeId" ColumnName="ResumeId" />
+      </EndProperty>
+      <EndProperty Name="VIDEO">
+        <ScalarProperty Name="VideoId" ColumnName="VideoId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="spAddAffaire" FunctionName="OdinCheckModel.Store.spAddAffaire" />
+    <FunctionImportMapping FunctionImportName="spAddPersonne" FunctionName="OdinCheckModel.Store.spAddPersonne" />
+    <FunctionImportMapping FunctionImportName="spAddRelation" FunctionName="OdinCheckModel.Store.spAddRelation" />
+    <FunctionImportMapping FunctionImportName="spAddResume" FunctionName="OdinCheckModel.Store.spAddResume" />
+    <FunctionImportMapping FunctionImportName="spAddRole" FunctionName="OdinCheckModel.Store.spAddRole" />
+    <FunctionImportMapping FunctionImportName="spAddVideo" FunctionName="OdinCheckModel.Store.spAddVideo" />
+    <FunctionImportMapping FunctionImportName="spDeleteAffaire" FunctionName="OdinCheckModel.Store.spDeleteAffaire" />
+    <FunctionImportMapping FunctionImportName="spDeletePersonne" FunctionName="OdinCheckModel.Store.spDeletePersonne" />
+    <FunctionImportMapping FunctionImportName="spDeleteRelation" FunctionName="OdinCheckModel.Store.spDeleteRelation" />
+    <FunctionImportMapping FunctionImportName="spDeleteResume" FunctionName="OdinCheckModel.Store.spDeleteResume" />
+    <FunctionImportMapping FunctionImportName="spDeleteRole" FunctionName="OdinCheckModel.Store.spDeleteRole" />
+    <FunctionImportMapping FunctionImportName="spDeleteVideo" FunctionName="OdinCheckModel.Store.spDeleteVideo" />
+    <FunctionImportMapping FunctionImportName="spGet" FunctionName="OdinCheckModel.Store.spGet" />
+    <FunctionImportMapping FunctionImportName="spGetAffaire" FunctionName="OdinCheckModel.Store.spGetAffaire">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetAffaire_Result">
+          <ScalarProperty Name="AffaireId" ColumnName="AffaireId" />
+          <ScalarProperty Name="AffaireName" ColumnName="AffaireName" />
+          <ScalarProperty Name="AffaireComments" ColumnName="AffaireComments" />
+          <ScalarProperty Name="AffaireDateCreation" ColumnName="AffaireDateCreation" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spGetPersonne" FunctionName="OdinCheckModel.Store.spGetPersonne">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetPersonne_Result">
+          <ScalarProperty Name="PersonneId" ColumnName="PersonneId" />
+          <ScalarProperty Name="PersonneName" ColumnName="PersonneName" />
+          <ScalarProperty Name="PersonneUser" ColumnName="PersonneUser" />
+          <ScalarProperty Name="PersonnePass" ColumnName="PersonnePass" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="Actif" ColumnName="Actif" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spGetRelation" FunctionName="OdinCheckModel.Store.spGetRelation">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetRelation_Result">
+          <ScalarProperty Name="ResumeId" ColumnName="ResumeId" />
+          <ScalarProperty Name="VideoId" ColumnName="VideoId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spGetResume" FunctionName="OdinCheckModel.Store.spGetResume">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetResume_Result">
+          <ScalarProperty Name="ResumeId" ColumnName="ResumeId" />
+          <ScalarProperty Name="AffaireId" ColumnName="AffaireId" />
+          <ScalarProperty Name="PersonneId" ColumnName="PersonneId" />
+          <ScalarProperty Name="ResumeName" ColumnName="ResumeName" />
+          <ScalarProperty Name="ResumeComments" ColumnName="ResumeComments" />
+          <ScalarProperty Name="ResumeDateCreation" ColumnName="ResumeDateCreation" />
+          <ScalarProperty Name="ResumeParameters" ColumnName="ResumeParameters" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spGetRole" FunctionName="OdinCheckModel.Store.spGetRole">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetRole_Result">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spGetVideo" FunctionName="OdinCheckModel.Store.spGetVideo">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="OdinCheckModel.spGetVideo_Result">
+          <ScalarProperty Name="VideoId" ColumnName="VideoId" />
+          <ScalarProperty Name="VideoName" ColumnName="VideoName" />
+          <ScalarProperty Name="VideoPath" ColumnName="VideoPath" />
+          <ScalarProperty Name="VideoDateCreation" ColumnName="VideoDateCreation" />
+          <ScalarProperty Name="VideoDescription" ColumnName="VideoDescription" />
+          <ScalarProperty Name="VideoDateDebut" ColumnName="VideoDateDebut" />
+          <ScalarProperty Name="VideoDuration" ColumnName="VideoDuration" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spUpdateAffaire" FunctionName="OdinCheckModel.Store.spUpdateAffaire" />
+    <FunctionImportMapping FunctionImportName="spUpdatePersonne" FunctionName="OdinCheckModel.Store.spUpdatePersonne" />
+    <FunctionImportMapping FunctionImportName="spUpdateRelation" FunctionName="OdinCheckModel.Store.spUpdateRelation" />
+    <FunctionImportMapping FunctionImportName="spUpdateResume" FunctionName="OdinCheckModel.Store.spUpdateResume" />
+    <FunctionImportMapping FunctionImportName="spUpdateRoles" FunctionName="OdinCheckModel.Store.spUpdateRoles" />
+    <FunctionImportMapping FunctionImportName="spUpdateVideo" FunctionName="OdinCheckModel.Store.spUpdateVideo" />
+  </EntityContainerMapping>
+</Mapping>

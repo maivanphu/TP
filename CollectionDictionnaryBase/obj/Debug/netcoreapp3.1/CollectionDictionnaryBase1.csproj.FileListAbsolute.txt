@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.exe
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.deps.json
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.dll
+C:\Users\mai\source\TP\CollectionDictionnaryBase\bin\Debug\netcoreapp3.1\CollectionDictionnaryBase1.pdb
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.dll
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.pdb
+C:\Users\mai\source\TP\CollectionDictionnaryBase\obj\Debug\netcoreapp3.1\CollectionDictionnaryBase1.genruntimeconfig.cache

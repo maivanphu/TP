@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.exe
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.deps.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.dll
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack1.pdb
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.dll
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.pdb
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack1.genruntimeconfig.cache

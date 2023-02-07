@@ -1,0 +1,12 @@
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\mai\source\TP\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\mai\source\TP\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache

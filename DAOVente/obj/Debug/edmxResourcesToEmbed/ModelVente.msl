@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VenteModelStoreContainer" CdmEntityContainer="VenteEntities">
+    <EntitySetMapping Name="CLIENT">
+      <EntityTypeMapping TypeName="VenteModel.CLIENT">
+        <MappingFragment StoreEntitySet="CLIENT">
+          <ScalarProperty Name="CLIID" ColumnName="CLIID" />
+          <ScalarProperty Name="NOM" ColumnName="NOM" />
+          <ScalarProperty Name="ADRESSE" ColumnName="ADRESSE" />
+          <ScalarProperty Name="VILLE" ColumnName="VILLE" />
+          <ScalarProperty Name="PAYS" ColumnName="PAYS" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="TEL" ColumnName="TEL" />
+          <ScalarProperty Name="REPID" ColumnName="REPID" />
+          <ScalarProperty Name="LIMITECREDIT" ColumnName="LIMITECREDIT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COMMANDE">
+      <EntityTypeMapping TypeName="VenteModel.COMMANDE">
+        <MappingFragment StoreEntitySet="COMMANDE">
+          <ScalarProperty Name="CDEID" ColumnName="CDEID" />
+          <ScalarProperty Name="DATECDE" ColumnName="DATECDE" />
+          <ScalarProperty Name="PLANCDE" ColumnName="PLANCDE" />
+          <ScalarProperty Name="CLIID" ColumnName="CLIID" />
+          <ScalarProperty Name="DATEACHAT" ColumnName="DATEACHAT" />
+          <ScalarProperty Name="TOTAL" ColumnName="TOTAL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DEPARTEMENT">
+      <EntityTypeMapping TypeName="VenteModel.DEPARTEMENT">
+        <MappingFragment StoreEntitySet="DEPARTEMENT">
+          <ScalarProperty Name="DEPTNO" ColumnName="DEPTNO" />
+          <ScalarProperty Name="NOM" ColumnName="NOM" />
+          <ScalarProperty Name="LOC" ColumnName="LOC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMPLOYE">
+      <EntityTypeMapping TypeName="VenteModel.EMPLOYE">
+        <MappingFragment StoreEntitySet="EMPLOYE">
+          <ScalarProperty Name="EMPNO" ColumnName="EMPNO" />
+          <ScalarProperty Name="NOM" ColumnName="NOM" />
+          <ScalarProperty Name="METIER" ColumnName="METIER" />
+          <ScalarProperty Name="SUPERIEUR" ColumnName="SUPERIEUR" />
+          <ScalarProperty Name="ENTREE" ColumnName="ENTREE" />
+          <ScalarProperty Name="SALAIRE" ColumnName="SALAIRE" />
+          <ScalarProperty Name="COMM" ColumnName="COMM" />
+          <ScalarProperty Name="DEPTNO" ColumnName="DEPTNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LIGNECDE">
+      <EntityTypeMapping TypeName="VenteModel.LIGNECDE">
+        <MappingFragment StoreEntitySet="LIGNECDE">
+          <ScalarProperty Name="CDEID" ColumnName="CDEID" />
+          <ScalarProperty Name="LIGNEID" ColumnName="LIGNEID" />
+          <ScalarProperty Name="PRODID" ColumnName="PRODID" />
+          <ScalarProperty Name="PRIXACTUEL" ColumnName="PRIXACTUEL" />
+          <ScalarProperty Name="QTE" ColumnName="QTE" />
+          <ScalarProperty Name="TOTLIGNE" ColumnName="TOTLIGNE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NOMENCLATURE">
+      <EntityTypeMapping TypeName="VenteModel.NOMENCLATURE">
+        <MappingFragment StoreEntitySet="NOMENCLATURE">
+          <ScalarProperty Name="COMPOSE" ColumnName="COMPOSE" />
+          <ScalarProperty Name="COMPOSANT" ColumnName="COMPOSANT" />
+          <ScalarProperty Name="QTE" ColumnName="QTE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRODUIT">
+      <EntityTypeMapping TypeName="VenteModel.PRODUIT">
+        <MappingFragment StoreEntitySet="PRODUIT">
+          <ScalarProperty Name="PRODID" ColumnName="PRODID" />
+          <ScalarProperty Name="DESCRIP" ColumnName="DESCRIP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="VenteModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="VenteModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="VenteModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="VenteModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="VenteModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VenteModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="VenteModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VenteModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="VenteModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="VenteModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="spEmploye" FunctionName="VenteModel.Store.spEmploye">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="VenteModel.spEmploye_Result">
+          <ScalarProperty Name="EMPNO" ColumnName="EMPNO" />
+          <ScalarProperty Name="NOM" ColumnName="NOM" />
+          <ScalarProperty Name="METIER" ColumnName="METIER" />
+          <ScalarProperty Name="SUPERIEUR" ColumnName="SUPERIEUR" />
+          <ScalarProperty Name="ENTREE" ColumnName="ENTREE" />
+          <ScalarProperty Name="SALAIRE" ColumnName="SALAIRE" />
+          <ScalarProperty Name="COMM" ColumnName="COMM" />
+          <ScalarProperty Name="DEPTNO" ColumnName="DEPTNO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

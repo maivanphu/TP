@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.exe
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.deps.json
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.runtimeconfig.json
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.runtimeconfig.dev.json
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.dll
+C:\Users\mai\source\TP\TP_Agregation_Heritage\bin\Debug\netcoreapp3.1\TP_Agregation_Heritage.pdb
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.AssemblyInfo.cs
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.dll
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.pdb
+C:\Users\mai\source\TP\TP_Agregation_Heritage\obj\Debug\netcoreapp3.1\TP_Agregation_Heritage.genruntimeconfig.cache

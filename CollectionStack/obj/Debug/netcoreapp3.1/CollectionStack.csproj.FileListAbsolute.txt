@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.exe
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.deps.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.dll
+C:\Users\mai\source\TP\CollectionStack\bin\Debug\netcoreapp3.1\CollectionStack.pdb
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.dll
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.pdb
+C:\Users\mai\source\TP\CollectionStack\obj\Debug\netcoreapp3.1\CollectionStack.genruntimeconfig.cache

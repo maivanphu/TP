@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.exe
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.deps.json
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.runtimeconfig.json
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.runtimeconfig.dev.json
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.dll
+C:\Users\mai\source\TP\ApplicationsSimples\bin\Debug\netcoreapp3.1\ApplicationsSimples.pdb
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.AssemblyInfo.cs
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.dll
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.pdb
+C:\Users\mai\source\TP\ApplicationsSimples\obj\Debug\netcoreapp3.1\ApplicationsSimples.genruntimeconfig.cache

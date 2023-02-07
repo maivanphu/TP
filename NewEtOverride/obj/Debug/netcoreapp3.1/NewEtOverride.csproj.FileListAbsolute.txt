@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.exe
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.deps.json
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.runtimeconfig.json
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.runtimeconfig.dev.json
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.dll
+C:\Users\mai\source\TP\NewEtOverride\bin\Debug\netcoreapp3.1\NewEtOverride.pdb
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.AssemblyInfo.cs
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.dll
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.pdb
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.genruntimeconfig.cache
+C:\Users\mai\source\TP\NewEtOverride\obj\Debug\netcoreapp3.1\NewEtOverride.csprojAssemblyReference.cache

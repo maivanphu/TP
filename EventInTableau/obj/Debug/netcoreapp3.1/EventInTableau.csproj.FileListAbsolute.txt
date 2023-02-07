@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.exe
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.deps.json
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.runtimeconfig.json
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.runtimeconfig.dev.json
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.dll
+C:\Users\mai\source\TP\EventInTableau\bin\Debug\netcoreapp3.1\EventInTableau.pdb
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.AssemblyInfo.cs
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.dll
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.pdb
+C:\Users\mai\source\TP\EventInTableau\obj\Debug\netcoreapp3.1\EventInTableau.genruntimeconfig.cache

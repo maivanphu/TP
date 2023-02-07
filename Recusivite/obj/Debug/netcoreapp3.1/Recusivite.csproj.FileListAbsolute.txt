@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.exe
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.deps.json
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.runtimeconfig.json
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.runtimeconfig.dev.json
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.dll
+C:\Users\mai\source\TP\Recusivite\bin\Debug\netcoreapp3.1\Recusivite.pdb
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.AssemblyInfo.cs
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.dll
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.pdb
+C:\Users\mai\source\TP\Recusivite\obj\Debug\netcoreapp3.1\Recusivite.genruntimeconfig.cache

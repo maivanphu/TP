@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.exe
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.deps.json
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.runtimeconfig.json
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.runtimeconfig.dev.json
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.dll
+C:\Users\mai\source\TP\DelegateOuInterface\bin\Debug\netcoreapp3.1\DelegateOuInterface.pdb
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.AssemblyInfo.cs
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.dll
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.pdb
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.genruntimeconfig.cache
+C:\Users\mai\source\TP\DelegateOuInterface\obj\Debug\netcoreapp3.1\DelegateOuInterface.csprojAssemblyReference.cache

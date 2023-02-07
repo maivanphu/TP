@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.AssemblyInfo.cs
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.exe
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.deps.json
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.runtimeconfig.json
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.runtimeconfig.dev.json
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.dll
+C:\Users\mai\source\TP\GC_Finaliseur\bin\Debug\netcoreapp3.1\GC_Finaliseur.pdb
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.dll
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.pdb
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.genruntimeconfig.cache
+C:\Users\mai\source\TP\GC_Finaliseur\obj\Debug\netcoreapp3.1\GC_Finaliseur.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.exe
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.deps.json
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.runtimeconfig.json
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.runtimeconfig.dev.json
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.dll
+C:\Users\mai\source\TP\TestQCM_POO\bin\Debug\netcoreapp3.1\TestQCM_POO.pdb
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.AssemblyInfo.cs
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.dll
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.pdb
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.genruntimeconfig.cache
+C:\Users\mai\source\TP\TestQCM_POO\obj\Debug\netcoreapp3.1\TestQCM_POO.csprojAssemblyReference.cache

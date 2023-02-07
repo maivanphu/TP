@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.exe
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.deps.json
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.runtimeconfig.json
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.runtimeconfig.dev.json
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.dll
+C:\Users\mai\source\TP\PassageParametresRefOut\bin\Debug\netcoreapp3.1\PassageParametresRefOut.pdb
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.AssemblyInfo.cs
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.dll
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.pdb
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.genruntimeconfig.cache
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\PassageParametresRefOut\obj\Debug\netcoreapp3.1\PassageParametresRefOut.GeneratedMSBuildEditorConfig.editorconfig

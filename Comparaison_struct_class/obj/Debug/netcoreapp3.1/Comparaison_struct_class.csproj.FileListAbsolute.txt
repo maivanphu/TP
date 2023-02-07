@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.exe
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.deps.json
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.runtimeconfig.json
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.runtimeconfig.dev.json
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.dll
+C:\Users\mai\source\TP\Comparaison_struct_class\bin\Debug\netcoreapp3.1\Comparaison_struct_class.pdb
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.AssemblyInfo.cs
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.dll
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.pdb
+C:\Users\mai\source\TP\Comparaison_struct_class\obj\Debug\netcoreapp3.1\Comparaison_struct_class.genruntimeconfig.cache

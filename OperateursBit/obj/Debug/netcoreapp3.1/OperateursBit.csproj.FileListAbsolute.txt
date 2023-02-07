@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.exe
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.deps.json
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.runtimeconfig.json
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.runtimeconfig.dev.json
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.dll
+C:\Users\mai\source\TP\OperateursBit\bin\Debug\netcoreapp3.1\OperateursBit.pdb
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.AssemblyInfo.cs
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.dll
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.pdb
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.genruntimeconfig.cache
+C:\Users\mai\source\TP\OperateursBit\obj\Debug\netcoreapp3.1\OperateursBit.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\mai\source\TP\LinqToSql\bin\Debug\netcoreapp3.1\LinqToSql.exe
+C:\Users\mai\source\TP\LinqToSql\obj\Debug\netcoreapp3.1\LinqToSql.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\LinqToSql\obj\Debug\netcoreapp3.1\LinqToSql.AssemblyInfo.cs

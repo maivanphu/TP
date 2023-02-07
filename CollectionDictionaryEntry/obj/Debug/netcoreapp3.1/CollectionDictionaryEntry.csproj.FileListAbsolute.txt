@@ -1,0 +1,14 @@
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.exe
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.deps.json
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.runtimeconfig.json
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.runtimeconfig.dev.json
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.dll
+C:\Users\mai\source\TP\CollectionDictionaryEntry\bin\Debug\netcoreapp3.1\CollectionDictionaryEntry.pdb
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.AssemblyInfo.cs
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.dll
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.pdb
+C:\Users\mai\source\TP\CollectionDictionaryEntry\obj\Debug\netcoreapp3.1\CollectionDictionaryEntry.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\DAOVente\bin\Debug\DAOVente.dll.config
+C:\Users\mai\source\TP\DAOVente\bin\Debug\DAOVente.dll
+C:\Users\mai\source\TP\DAOVente\bin\Debug\DAOVente.pdb
+C:\Users\mai\source\TP\DAOVente\bin\Debug\EntityFramework.dll
+C:\Users\mai\source\TP\DAOVente\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mai\source\TP\DAOVente\bin\Debug\EntityFramework.xml
+C:\Users\mai\source\TP\DAOVente\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mai\source\TP\DAOVente\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\mai\source\TP\DAOVente\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\mai\source\TP\DAOVente\obj\Debug\DAOVente.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\DAOVente\obj\Debug\DAOVente.csproj.CopyComplete
+C:\Users\mai\source\TP\DAOVente\obj\Debug\DAOVente.dll
+C:\Users\mai\source\TP\DAOVente\obj\Debug\DAOVente.pdb

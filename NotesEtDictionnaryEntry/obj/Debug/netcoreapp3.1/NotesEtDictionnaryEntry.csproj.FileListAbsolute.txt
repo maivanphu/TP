@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.exe
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.deps.json
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.runtimeconfig.json
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.runtimeconfig.dev.json
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.dll
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\bin\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.pdb
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.AssemblyInfo.cs
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.dll
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.pdb
+C:\Users\mai\source\TP\NotesEtDictionnaryEntry\obj\Debug\netcoreapp3.1\NotesEtDictionnaryEntry.genruntimeconfig.cache

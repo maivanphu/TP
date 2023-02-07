@@ -1,0 +1,17 @@
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\obj\Debug\EntityFramworkDBfirst2.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\obj\Debug\EntityFramworkDBfirst2.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramworkDBfirst2.exe.config
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramworkDBfirst2.exe
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramworkDBfirst2.pdb
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramework.dll
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramework.xml
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\obj\Debug\EntityFramworkDBfirst2.csproj.CopyComplete
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\obj\Debug\EntityFramworkDBfirst2.exe
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\obj\Debug\EntityFramworkDBfirst2.pdb
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\DAOVente.dll
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\DAOVente.pdb
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\DAOVente.dll.config
+C:\Users\mai\source\TP\EntityFramworkDBfirst2\bin\Debug\fr\EntityFramework.SqlServer.resources.dll

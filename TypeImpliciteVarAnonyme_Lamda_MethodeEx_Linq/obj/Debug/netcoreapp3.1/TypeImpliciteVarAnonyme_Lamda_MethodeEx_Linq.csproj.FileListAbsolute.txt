@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.exe
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.deps.json
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.runtimeconfig.json
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.runtimeconfig.dev.json
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.dll
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\bin\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.pdb
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.csprojAssemblyReference.cache
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.AssemblyInfo.cs
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.dll
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.pdb
+C:\Users\mai\source\TP\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq\obj\Debug\netcoreapp3.1\TypeImpliciteVarAnonyme_Lamda_MethodeEx_Linq.genruntimeconfig.cache

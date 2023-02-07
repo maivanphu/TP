@@ -1,0 +1,15 @@
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\bin\Debug\WpfApplicationINotifyPropertyChanged.exe.config
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\bin\Debug\WpfApplicationINotifyPropertyChanged.exe
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\bin\Debug\WpfApplicationINotifyPropertyChanged.pdb
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged_MarkupCompile.cache
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged_MarkupCompile.lref
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.g.resources
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.Properties.Resources.resources
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.exe
+C:\Users\mai\source\TP\WpfApplicationINotifyPropertyChanged\obj\Debug\WpfApplicationINotifyPropertyChanged.pdb
