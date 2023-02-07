@@ -1,0 +1,13 @@
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.exe
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.deps.json
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.runtimeconfig.json
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.runtimeconfig.dev.json
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.dll
+C:\Users\mai\source\TP\TestsQCM\bin\Debug\netcoreapp3.1\TestsQCM.pdb
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.AssemblyInfoInputs.cache
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.AssemblyInfo.cs
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.csproj.CoreCompileInputs.cache
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.dll
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.pdb
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.genruntimeconfig.cache
+C:\Users\mai\source\TP\TestsQCM\obj\Debug\netcoreapp3.1\TestsQCM.csprojAssemblyReference.cache
