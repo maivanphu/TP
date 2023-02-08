@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace TestsQCM
 {
-
+    //test changement
     class A
     {
        protected string strpro; // accessible depuis B?
