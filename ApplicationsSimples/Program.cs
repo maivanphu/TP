@@ -65,8 +65,8 @@ namespace ApplicationsSimples
                 }
 
             if (k == tab.Length)
-                Console.WriteLine("pas trouvé....");
-
+                Console.WriteLine("pas trouvé ce qu'il faut....");
+            
 
         }
     }
